@@ -1,0 +1,5 @@
+name: NoBedExplosions
+description: Disable bed explosions in Nether
+main: ru.endlesscode.nobedexplosions.NoBedExplosions
+version: 0.1
+author: OsipXD
